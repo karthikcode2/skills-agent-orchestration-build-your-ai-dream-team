@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Northstar Sandbox",
+      "owner": "Alex Example",
+      "status": "In progress",
+      "recentActivity": "Draft outline shared",
+      "priority": "Medium",
+      "summary": "A fictional workspace for trying out onboarding ideas."
+    },
+    {
+      "name": "Paper Crane Demo",
+      "owner": "Jordan Sample",
+      "status": "Planning",
+      "recentActivity": "Kickoff notes collected",
+      "priority": "Low",
+      "summary": "A sample project to explore clearer team handoffs."
+    },
+    {
+      "name": "Bluebird Practice",
+      "owner": "Taylor Placeholder",
+      "status": "Review",
+      "recentActivity": "Example checklist updated",
+      "priority": "High",
+      "summary": "A made-up practice space for reviewing shared checklists."
+    }
+  ]
+}
